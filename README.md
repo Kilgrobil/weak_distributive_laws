@@ -3,13 +3,13 @@
 This file is an appendix of the PhD thesis of Alexandre Goy
 untitled "On the Compositionality of Monads via Weak Distributive Laws" (2021).
 It contains formal proofs, valid in [Set] and more generally in any topos, that: 
-  - [Theorem eta_nearly_cartesian]
+  - ``Theorem eta_nearly_cartesian```  
     : the unit of the powerset monad is nearly cartesian iff the topos is degenerate
-  - [Theorem mu_nearly_cartesian]
+  - ```Theorem mu_nearly_cartesian```  
     : the multiplication of the powerset monad is nearly cartesian
-  - [Theorem monotone_weak_dlaw]
+  - ```Theorem monotone_weak_dlaw```  
     : the unique monotone weak distributive law from the powerset over itself
     is given by the expected formula, derived from Egli-Milner
-  - [Theorem dlaw_degenerate]
+  - ```Theorem dlaw_degenerate```  
     :if there is a distributive law [PP -> PP] then the topos is degenerate
 
