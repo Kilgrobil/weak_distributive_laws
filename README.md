@@ -2,7 +2,7 @@
 
 This file is an appendix of the PhD thesis of Alexandre Goy
 untitled "On the Compositionality of Monads via Weak Distributive Laws" (2021).
-It contains formal proofs, valid in [Set] and more generally in any topos, that: 
+It contains formal proofs, valid in the category of sets and more generally in any topos, that: 
   - ```Theorem eta_nearly_cartesian```  
     The unit of the powerset monad is nearly cartesian iff the topos is degenerate
   - ```Theorem mu_nearly_cartesian```  
