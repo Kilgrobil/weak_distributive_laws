@@ -14,4 +14,4 @@ It contains formal proofs, valid in the category of sets and more generally in a
   - ```Theorem dlaw_degenerate```  
     If there is a distributive law ```PP -> PP``` then the topos is degenerate
 
-For more information on my research, please visit [my website](agoy.fr).
+For more information on my research, please visit [my website](http://agoy.fr).
